@@ -1,19 +1,14 @@
-# jiraTEAbot
-JIRA Time Entry Automation (TEA) bot
 
-### What is it?
-Helps log your time entry in JIRA automatically
+
+### About
+Helps log your JIRA time entry automatically
 
 
 ### Prerequisites
-- .NET Framework RUntime 4.7.1 (or later)
-
-
-### How to Install?
+- .NET Framework Runtime 4.7.1 (or later)
+- Google Chrome (latest)
 
 
 ### Version Updates
 Current: 1.5
-
-Previous: 
- - 1.2
+Previous: 1.2, 1.0

@@ -1,4 +1,5 @@
-
+# jiraTEAbot
+JIRA Time Entry Automation (TEA) bot
 
 ### About
 Helps log your JIRA time entry automatically
